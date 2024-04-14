@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: About Tomás Zazueta
 permalink: /about
 image: profpic.jpg
 ---
+![tom zazueta](profpic.jpg)
 
-# About Tomás Zazueta
 Hi! I am a programmer/nerd looking to better my community and the world around us.
 
 I went to HS at Don Bosco Tech, where I first learned to code. 
