@@ -4,7 +4,7 @@ title: About Tomás Zazueta
 permalink: /about
 image: profpic.jpg
 ---
-![tom zazueta](img/profpic.jpg)
+![tom zazueta](assets/img/profpic.jpg)
 
 Hi! I am a programmer/nerd looking to better my community and the world around us.
 
