@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting Started"
-author: "Paul Le"
+author: "Tomás Zazueta"
 categories: blog
 tags: [blog,news]
 image: city-1.jpg

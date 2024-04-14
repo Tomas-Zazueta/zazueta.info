@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Welcome to Millennial!"
-author: "Paul Le"
-categories: blog
+author: "Tomás Zazueta"
+categories: blog       
 tags: [blog,news]
 image: cuba-1.jpg
 ---
