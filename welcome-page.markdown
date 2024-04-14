@@ -1,8 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: post
+title:  "Welcome to zazueta.info!"
+date:   2024-04-13 17:32:32 -0800
+categories: Welcome page
 ---
 Welcome to zazueta.info - the world's first website dedicated to best last name in the world: Zazueta! I am Tomas Zazueta, and I hope you and any vistors find my site useful.
 
