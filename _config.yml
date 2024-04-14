@@ -29,6 +29,8 @@ github_username:  Tomas-Zazueta
 
 # Build settings
 theme: minima
+minima:
+  skin: solarized
 plugins:
   - jekyll-feed
 
