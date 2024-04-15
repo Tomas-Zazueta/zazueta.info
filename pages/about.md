@@ -17,4 +17,7 @@ Most importantly, I am part of a very exclusive club - people with **Zazueta** s
 
 I have 5 years of experience in the tech field, focusing on Data Management & Analysis. I am currently working for the [UC Irvine Institute for Memory Impairments and Neurological Disorders](https://mind.uci.edu/).
 
-Thanks for visting my site! I hope you enjoyed it. You can find me at [tomasjustinzazueta@gmail.com](mailto:tomasjustinzazueta@gmail.com)
+Thanks for visting my site! I hope you enjoyed it. 
+
+## Contact Tomás
+You can find me at [tomasjustinzazueta@gmail.com](mailto:tomasjustinzazueta@gmail.com)
