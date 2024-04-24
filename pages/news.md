@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: externalcategory
 title: Zazuetas in the News
 category: news
 permalink: /news

@@ -1,0 +1,18 @@
+<article>
+  <div class="external-post">
+    {% if post.image %}
+      <img src=/assets/img/{{post.image}}>
+    {% endif %}
+    <a href="{{ site.github.url }}{{ post.url }}">
+      <h3><span>{{ post.title }}</span></h3>
+    </a>
+		{% unless post.categories contains "resources" %}
+      <time>
+				{{ post.date | date: " <span class='month'>%b</span> <span class='day'>%d</span> <span class='year'>%Y</span>"}}
+			</time>
+    {% endunless %}
+		<footer>
+			<ul>{{ post.description }}</ul>
+		</footer>
+  </div>
+</article>
