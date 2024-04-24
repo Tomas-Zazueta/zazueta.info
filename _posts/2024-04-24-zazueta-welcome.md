@@ -4,7 +4,7 @@ title: "Welcome to Zazueta.info!"
 author: "Tomás Zazueta"
 categories: facts
 tags: [facts]
-image: welcome.JPG
+image: welcome.jpg
 ---
 
 Welcome to Zazueta.info!
