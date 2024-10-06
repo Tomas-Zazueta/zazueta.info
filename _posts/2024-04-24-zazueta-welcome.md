@@ -9,7 +9,7 @@ image: welcome.jpg
 
 Welcome to Zazueta.info!
 
-Thank you for visiting my site! Here, I'll be posting some info on the world's best last name - Zazueta!!! 
+Thank you for visiting my site! Here, I'll be posting some info on the world's best last name - Zazueta!
 
 As a fellow Zazueta, I've always been disappointed by the lack of info that could be found for our surname. So with this website, I've resolved to change that! 
 
