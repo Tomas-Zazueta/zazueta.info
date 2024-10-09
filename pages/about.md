@@ -7,7 +7,7 @@ permalink: /about
 
 ![tom zazueta](assets/img/profpic.jpg)
 
-Hi! I am a programmer/nerd looking to better my community and the world around us.
+Hi! I am a programmer guy, just looking to better my community and the world around us.
 
 I went to HS at Don Bosco Tech, where I first learned to code. 
 
