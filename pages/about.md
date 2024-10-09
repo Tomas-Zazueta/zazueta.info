@@ -11,7 +11,7 @@ Hi! I am a programmer/nerd looking to better my community and the world around u
 
 I went to HS at Don Bosco Tech, where I first learned to code. 
 
-I went to college at UC Irvine, graduating with a BS in Computer Science.
+I went to college at UC Irvine, graduating with a Bachelor's in Computer Science.
 
 Most importantly, I am part of a very exclusive club - people with **Zazueta** surnames.
 
