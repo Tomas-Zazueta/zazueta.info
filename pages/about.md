@@ -20,4 +20,4 @@ Most importantly, I am part of a very exclusive club - people with **Zazueta** s
 Thanks for visting my site! I hope you enjoyed it. 
 
 ## Contact Tomás
-You can find me at [tomasjustinzazueta@gmail.com](mailto:tomasjustinzazueta@gmail.com)
+You can find me at [tomas@zazueta.info](mailto:tomas@zazueta.info)
