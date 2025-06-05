@@ -34,7 +34,7 @@ Not going to lie, it annoyed me for a bit before it became an inside joke. I hop
 ### Got it. What about the Spanish pronunciation?
 I'm glad you asked! In Spanish, you would say:
 
-**ZA-ZWE-tah**
+**SA-SWE-tah**
 
 Sounding it out, that last part, "tah", should rhyme with "law".
 
