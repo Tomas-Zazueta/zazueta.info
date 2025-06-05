@@ -42,7 +42,7 @@ It appears that the literal translation for Zazueta is "place of blackberries". 
 
 What I also find interesting is how Zazueta may have been originally spelled! **Sasoeta** - Imagine a world where we didn't need to sit in the back of class!
 
-Buber notes that Sasoeta specifically comes from Lasarte. Whether this is an older version of Zazueta/Sasoreta or a place name, I am pleased to tell you that [it is definitely a place](https://en.wikipedia.org/wiki/Lasarte-Oria):
+Buber notes that Sasoeta specifically comes from **Lasarte**. Whether this is an older version of Zazueta/Sasoreta or a place name, I am pleased to tell you that [it is definitely a place](https://en.wikipedia.org/wiki/Lasarte-Oria):
 ![](assets/img/Lasarte.jpg)
 
 Anybody want to plan a trip? I still need to find a place that teaches Basque.
