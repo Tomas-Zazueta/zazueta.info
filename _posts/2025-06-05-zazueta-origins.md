@@ -4,7 +4,7 @@ title: "Where does Zazueta originally come from?"
 author: "Tomás Zazueta"
 categories: facts
 tags: [facts]
-image: basqueflag.jpg
+image: basqueflag.png
 ---
 
 OR: The linguistic evolution of the word Zazueta
